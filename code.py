@@ -8,10 +8,7 @@ import adafruit_lis3dh
 
 from adafruit_turtle import Color, turtle
 import digitalio
-import storage
 
-
-from adafruit_bitmapsaver import save_pixels
 
 # Create the TFT Gizmo display
 display = tft_gizmo.TFT_Gizmo()
