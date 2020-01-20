@@ -18,12 +18,12 @@ Mini Etch-a-sketch using accelerometer and turtle library, for CircuitPlayground
 * Gravity set the angle of heading of the turtle
 * Tilt set the velocity
 * Button A control the color.
-** Default color is white. next are : Pink, Red, Orange, Yellow, Green, Blue, Purple
-** Brief press set the color to the next on the list.
-** Long press set the color to random (from the rainbow colors)
+  * Default color is White. next are : Pink, Red, Orange, Yellow, Green, Blue, Purple then White etc.
+  * Brief press set the color to the next on the list.
+  * Long press set the color to random (from the rainbow colors)
 * Button B 
-** Brief press pauses the turtle 
-** Long press reset the display (intented to screenshot, but not possible ATM)
+  * Brief press pauses the turtle 
+  * Long press reset the display (intented to screenshot, but not possible ATM)
 * Shake reset the display too
 
 
