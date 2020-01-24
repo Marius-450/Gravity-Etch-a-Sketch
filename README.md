@@ -1,11 +1,12 @@
 # Gravity-Etch-a-Sketch
+<img src="https://raw.githubusercontent.com/Marius-450/screenshots/master/Etch-a-sketch1.jpg" align="right">
 Mini Etch-a-sketch using accelerometer and turtle library, for CircuitPlayground boards with TFT Gizmo
 
 ## Requirements 
 
 ### Material
 
-* Circuit Playground Express or Bluefruit
+* Circuit Playground Bluefruit (tested) or Express (not tested)
 * TFT Gizmo
 
 ### Libs 
